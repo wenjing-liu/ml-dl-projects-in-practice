@@ -3,6 +3,7 @@ attrs==19.1.0
 backcall==0.1.0
 beautifulsoup4==4.8.0
 bleach==3.1.0
+cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
@@ -20,8 +21,10 @@ jupyter==1.0.0
 jupyter-client==5.3.1
 jupyter-console==6.0.0
 jupyter-core==4.5.0
+kiwisolver==1.1.0
 lxml==4.4.0
 MarkupSafe==1.1.1
+matplotlib==3.1.1
 mistune==0.8.4
 nbconvert==5.5.0
 nbformat==4.4.0
@@ -37,6 +40,7 @@ prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
 Pygments==2.4.2
+pyparsing==2.4.2
 pyrsistent==0.15.4
 python-dateutil==2.8.0
 pytz==2019.1
